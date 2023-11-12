@@ -1,0 +1,12 @@
+.statistics-card {
+  flex: 1;
+  max-width: 250px; /* Adjust this value as per your requirement */
+  height: 200px; /* Adjust this value as per your requirement */
+  margin: 10px; /* Optional: Added for some spacing between cards */
+}
+
+.statistics-row {
+  display: flex;
+  justify-content: center; /* Horizontally center the cards */
+  flex-wrap: wrap; /* Allow wrapping */
+}
